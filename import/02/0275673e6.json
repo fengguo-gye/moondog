@@ -1,0 +1,1 @@
+[{"__type__":"cc.AnimationClip","_name":"dog_idle","_duration":0.016666666666666666,"wrapMode":2,"curveData":{"comps":{"cc.Sprite":{"spriteFrame":[{"frame":0,"value":{"__uuid__":"26REN4wDBCv5O3PoxJB5Iz"}}]}}}},{"__type__":"cc.SpriteFrame","content":{"name":"dog_idle","texture":"63tusmOH5FHpDpU7KOzQlv","rect":[0,0,101,120],"offset":[0,0],"originalSize":[101,120]}}]
